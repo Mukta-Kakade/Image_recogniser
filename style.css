@@ -1,0 +1,20 @@
+body{
+    background-color: #d9aafa;
+    color: black;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects{
+    color: blue;
+}
+
+#camera{
+    height: 300px;
+    width: 350px;
+    border: 2px dashed purple;
+
+}
